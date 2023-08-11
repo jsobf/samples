@@ -1,0 +1,1 @@
+# 0.4 | 9726 bytes | 9448434 | Increased Code Security, Simple Anti Tamper, Noticable Increase in file size from earlier versions
