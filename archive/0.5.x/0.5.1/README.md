@@ -5,7 +5,10 @@ Changelogs:
 - Size optimizations
 - Property renamer
 ```
-
+```js
+Issues:
+- Template Literals breaks string obf
+```
 ```js
 OUTPUTS:
 - 1: 8,246 bytes
