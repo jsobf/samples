@@ -2,7 +2,7 @@
 # Anti Tamper / Environmental Locks / Runtime Generated Constant Pool
 <img src="https://github.com/jsobf/samples/blob/main/archive/v2/assets/0.2_banner.png?raw=true"></img>
 > V0.2 | 5eed07d
-
+###### PS: Due to the anti tampering mechanisms the beutified version will not execute!
 #### CHANGELOGS
 ```md
 # ADDITIONS 
