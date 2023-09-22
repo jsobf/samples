@@ -7,13 +7,13 @@
 ```md
 # ADDITIONS 
 Added numerous amounts of identifier naming types:
-- [ ] mangled (ab,lu,pl)
-- [ ] barcode (ililllii)
-- [ ] circular (O0OO00O)
-- [ ] hexadecimal (_0xA9B8D7)
+- [x] mangled (ab,lu,pl)
+- [x] barcode (ililllii)
+- [x] circular (O0OO00O)
+- [x] hexadecimal (_0xA9B8D7)
 - [ ] unicode (unfinished)
-- [ ] numbers (_830146347)
-- [ ] base64 (_JUM0JTgzJUM0JTgy)
+- [x] numbers (_830146347)
+- [x] base64 (_JUM0JTgzJUM0JTgy)
 ```
 ---
 ### ROAD MAP
